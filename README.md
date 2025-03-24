@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhaayush2004&label=Profile%20views&color=0e75b6&style=flat" alt="jhaayush2004" /> </p>
 
-- 🌱 I’m currently working on **Gen AI**
+- 🌱 I’m currently working on **AI, LLMs, Deep Learning, Machine Learning, Computer Vision, RAGs and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhaayush2004](https://github.com/jhaayush2004)
 
