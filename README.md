@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhaayush2004" alt="jhaayush2004" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/shauryasphinx" target="blank"><img src="https://img.shields.io/twitter/follow/ayushjha47188?logo=twitter&style=for-the-badge" alt="shauryasphinx" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/shauryasphinx" target="blank"><img src="https://img.shields.io/twitter/follow/shauryasphinx?logo=twitter&style=for-the-badge" alt="shauryasphinx" /></a> </p>
 
 - 🎓 I'm **third year undergrad at IIIT Ranchi**
 
