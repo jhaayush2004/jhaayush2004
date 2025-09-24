@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/shauryasphinx" target="blank"><img src="https://img.shields.io/twitter/follow/shauryasphinx?logo=twitter&style=for-the-badge" alt="shauryasphinx" /></a> </p>
 
-- 🎓 I'm **third year undergrad at IIIT Ranchi**
+- 🎓 I'm **final year undergrad at IIIT Ranchi**
 
-- 🌱 I’m currently learning **AWS EKS, Kubernetes, Docker, MongoDB, CloudFormation, Prometheus, Grafana, ML System Design**
-
-- 🔭 I’m currently working on **End-to-end MLOps pipelines, Production-Grade AI solutions, and Fine-tuning Large Language Models (LLMs).**
+- 🔭 I’m currently working on **Gen AI , Data Science, Machine Learning, Deep Learning, End-to-end MLOps pipelines, Production-Grade AI solutions, and Fine-tuning Large Language Models (LLMs).**
   
 -  💬 Ask me about **Deep Learning, MLOps, Data Science, LLMOps, Generative AI, AI Research, Machine Learning Engineering.**
 
